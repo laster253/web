@@ -5,6 +5,10 @@ body {
   color: #333;
   max-width: 800px;
   line-height: 1.6;
+  background-image: url("cat.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 header, footer {
   text-align: center;
